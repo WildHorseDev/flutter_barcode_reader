@@ -6,7 +6,6 @@
 # DEVELOPMENT HAS BEEN DISCONTINUED
 Since there are many other libraries which provides more and better functionality in barcode scanning, I decided to discontinue the development of this project.
 I recommend the Firebase ML Vision package as an alternative: https://pub.dev/packages/firebase_ml_vision
-
 <br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br>
 
